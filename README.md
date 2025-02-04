@@ -34,7 +34,7 @@ JWT_SECRET=your-jwt-secret-key
 
 ## Run the backend server:
 npm run dev
-The backend will now run on http://localhost:5000.
+The backend will now run on http://localhost:8000.
 
 ## Frontend Setup
 # Navigate to the frontend directory:
@@ -60,6 +60,12 @@ Frontend: React, React Router, Axios
 Backend: Node.js, Express.js, MongoDB (Mongoose), JWT for authentication
 Utilities: Bcrypt for password hashing, Multer for file uploads
 Styling: TailwindCSS
+
+## Screenshots :
+![Screenshot (188)](https://github.com/user-attachments/assets/81214761-3841-4615-9ced-ed568458aef1)
+![Screenshot (189)](https://github.com/user-attachments/assets/f9594ff0-9056-4a24-829e-613978a95a25)
+![Screenshot (190)](https://github.com/user-attachments/assets/dab63722-6fa4-426e-8617-6047552e3073)
+
 
 ## Authentication
 POST /api/auth/register: Register a new user.
